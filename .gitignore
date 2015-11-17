@@ -11,6 +11,7 @@ MANIFEST
 README.txt
 youtube-dl.1
 youtube-dl.bash-completion
+youtube-dl.fish
 youtube-dl
 youtube-dl.exe
 youtube-dl.tar.gz
@@ -18,3 +19,17 @@ youtube-dl.tar.gz
 cover/
 updates_key.pem
 *.egg-info
+*.srt
+*.sbv
+*.vtt
+*.flv
+*.mp4
+*.m4a
+*.m4v
+*.part
+*.swp
+test/testdata
+.tox
+youtube-dl.zsh
+.idea
+.idea/*
